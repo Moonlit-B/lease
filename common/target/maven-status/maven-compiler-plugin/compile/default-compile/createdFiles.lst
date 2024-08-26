@@ -1,0 +1,16 @@
+com\bjb\lease\common\utils\CodeUtil.class
+com\bjb\lease\common\login\LoginUserHolder.class
+com\bjb\lease\common\sms\AliyunSMSConfiguration.class
+com\bjb\lease\common\constant\RedisConstant.class
+com\bjb\lease\common\exception\GlobalExceptionHandler.class
+com\bjb\lease\common\minio\MinioConfiguration.class
+com\bjb\lease\common\mybatisplus\MybatisPlusConfiguration.class
+com\bjb\lease\common\sms\AliyunSMSProperties.class
+com\bjb\lease\common\result\ResultCodeEnum.class
+com\bjb\lease\common\mybatisplus\MybatisMetaObjectHandler.class
+com\bjb\lease\common\redis\RedisConfiguration.class
+com\bjb\lease\common\minio\MinioProperties.class
+com\bjb\lease\common\login\LoginUser.class
+com\bjb\lease\common\utils\JwtUtil.class
+com\bjb\lease\common\result\Result.class
+com\bjb\lease\common\exception\LeaseException.class

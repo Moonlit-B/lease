@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bjb.lease.web.admin.schedule.ScheduleTasksTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.623 s - in com.bjb.lease.web.admin.schedule.ScheduleTasksTest
